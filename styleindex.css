@@ -29,6 +29,7 @@ ul {
   background: #1a1a1a;
   transform: translateY(-100%);
   transition: all 0.45s cubic-bezier(0.23, 1, 0.32, 1);
+  font-size: 9px;
 }
 .nav--active {
   transform: translateY(0);
@@ -75,7 +76,7 @@ ul {
     font-size: 14px;
   }
 }
-@media (max-width: 720px) {
+@media (max-width: 1020px) {
   .nav__label {
     display: none;
   }
@@ -83,7 +84,7 @@ ul {
     height: 60px;
   }
   .nav__thumb:before {
-    font-size: 24px;
+    font-size: 15px;
     opacity: 0.7;
   }
 }
