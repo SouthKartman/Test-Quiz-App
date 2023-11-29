@@ -12,7 +12,7 @@ This project is a simple front-end template test using HTML and Stylus. It provi
 
 ## Features
 
-- **HTML and Stylus Structure:** Clean and organized HTML structure with a modular Sass stylesheet for easy styling.
+- **HTML and Stylus Structure:** Clean and organized HTML structure with a modular Stylus stylesheet for easy styling.
 
 - **Responsive Design:** The template is designed to be responsive and work well on various screen sizes.
 
