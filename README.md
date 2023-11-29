@@ -2,9 +2,11 @@
 # Simple Front-End Template Test
 
 This project is a simple front-end template test using HTML and Sass. It provides a basic structure for web development projects and can be used as a starting point for creating stylish and responsive web pages.
+<br><br>
+
 ![image](https://github.com/SouthKartman/Test-Quiz-App/assets/93534577/4f0e6241-443b-483c-9af9-d4cc2c14c6a8)
 
-
+<br>
 
 
 
@@ -15,9 +17,13 @@ This project is a simple front-end template test using HTML and Sass. It provide
 - **Responsive Design:** The template is designed to be responsive and work well on various screen sizes.
 
 - **Customizable:** Easily customize styles and content to suit your project requirements.
+<br>
+<br>
 
 ![image](https://github.com/SouthKartman/Test-Quiz-App/assets/93534577/f41fa33a-e07f-4f3a-bba4-6f58f1d10cd7)
 
+<br>
+<br>
 
 
 
