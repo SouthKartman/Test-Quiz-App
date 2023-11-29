@@ -1,7 +1,7 @@
 
 # Simple Front-End Template Test
 
-This project is a simple front-end template test using HTML and Sass. It provides a basic structure for web development projects and can be used as a starting point for creating stylish and responsive web pages.
+This project is a simple front-end template test using HTML and Stylus. It provides a basic structure for web development projects and can be used as a starting point for creating stylish and responsive web pages.
 <br><br>
 
 ![image](https://github.com/SouthKartman/Test-Quiz-App/assets/93534577/4f0e6241-443b-483c-9af9-d4cc2c14c6a8)
@@ -12,7 +12,7 @@ This project is a simple front-end template test using HTML and Sass. It provide
 
 ## Features
 
-- **HTML and Sass Structure:** Clean and organized HTML structure with a modular Sass stylesheet for easy styling.
+- **HTML and Stylus Structure:** Clean and organized HTML structure with a modular Sass stylesheet for easy styling.
 
 - **Responsive Design:** The template is designed to be responsive and work well on various screen sizes.
 
@@ -42,11 +42,11 @@ Open the project in your preferred code editor (Visual Studio Code, Sublime Text
 ##Modify Content and Styles:
 
 Edit the HTML files in the src directory to update the content.
-Customize the Sass styles in the src/scss directory to match your design preferences.
+Customize the Stylus styles in the src/stylus directory to match your design preferences.
 
-## Compile Sass to CSS:
+## Compile Stylus to CSS:
 
-If Sass is not configured to automatically compile in your environment, use a Sass compiler to convert styles.scss to styles.css.
+If Stylus is not configured to automatically compile in your environment, use a Stylus compiler to convert styles.scss to styles.styl.
 
 ## View in Browser:
 
@@ -61,11 +61,11 @@ Feel free to contribute or use it as a starting point for your projects.
 
 # Простой тест шаблона внешнего интерфейса
 
-Этот проект представляет собой простой тест шаблона внешнего интерфейса с использованием HTML и Sass. Он обеспечивает базовую структуру проектов веб-разработки и может использоваться в качестве отправной точки для создания стильных и адаптивных веб-страниц.
+Этот проект представляет собой простой тест шаблона внешнего интерфейса с использованием HTML и Stylus. Он обеспечивает базовую структуру проектов веб-разработки и может использоваться в качестве отправной точки для создания стильных и адаптивных веб-страниц.
 
 ## Функции
 
-- **Структура HTML и Sass:** Чистая и организованная структура HTML с модульной таблицей стилей Sass для упрощения стилизации.
+- **Структура HTML и Stylus:** Чистая и организованная структура HTML с модульной таблицей стилей Sass для упрощения стилизации.
 
 - **Адаптивный дизайн.** Шаблон адаптивный и хорошо работает на экранах разных размеров.
 
@@ -85,11 +85,11 @@ Feel free to contribute or use it as a starting point for your projects.
 ## Измените содержимое и стили:
 
 Отредактируйте файлы HTML в каталоге src, чтобы обновить содержимое.
-Настройте стили Sass в каталоге src/scss в соответствии со своими предпочтениями в дизайне.
+Настройте стили Sass в каталоге src/stylus в соответствии со своими предпочтениями в дизайне.
 
 ## Скомпилируйте Stylus в CSS:
 
-Если Sass не настроен на автоматическую компиляцию в вашей среде, используйте компилятор Stylus для преобразования style.stylus в style.css.
+Если Sass не настроен на автоматическую компиляцию в вашей среде, используйте компилятор Stylus для преобразования style.stylus в style.styl.
 
 
 
