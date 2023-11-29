@@ -74,7 +74,7 @@ Feel free to contribute or use it as a starting point for your projects.
 ## Использование
 
 1. **Клонировать репозиторий:**
-    ``` баш
+    ``` bash
     git clone https://github.com/yourusername/SimpleFrontEndTemplateTest.git
 
 
@@ -87,9 +87,9 @@ Feel free to contribute or use it as a starting point for your projects.
 Отредактируйте файлы HTML в каталоге src, чтобы обновить содержимое.
 Настройте стили Sass в каталоге src/scss в соответствии со своими предпочтениями в дизайне.
 
-## Скомпилируйте Sass в CSS:
+## Скомпилируйте Stylus в CSS:
 
-Если Sass не настроен на автоматическую компиляцию в вашей среде, используйте компилятор Sass для преобразования style.scss в style.css.
+Если Sass не настроен на автоматическую компиляцию в вашей среде, используйте компилятор Stylus для преобразования style.stylus в style.css.
 
 
 
